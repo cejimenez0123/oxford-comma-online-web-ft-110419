@@ -1,6 +1,6 @@
 def oxford_comma(array)
-kiwi = array.join(",")
+  array.join(",")
 
- kiwi << array.split(",")
+
 
 end
